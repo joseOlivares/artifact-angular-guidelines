@@ -21,7 +21,7 @@ export class AppComponent {
        //Estos logs no deberian aparecen en producción.
 
        console.log('🔥 Un buen desarrollador siempre usa console.log()');
-       console.log('😥 Aunque Eesto no deberia mostrarse en un ambiente productivo!!!')
+       console.log('😥 Aunque esto no deberia mostrarse en un ambiente productivo!!!')
     }
 
 }
